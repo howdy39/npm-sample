@@ -1,0 +1,22 @@
+{
+  "name": "@howdy39/npm-sample",
+  "version": "1.0.0",
+  "description": "npm検証用リポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howdy39/npm-sample.git"
+  },
+  "author": "howdy39",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/howdy39/npm-sample/issues"
+  },
+  "homepage": "https://github.com/howdy39/npm-sample#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
